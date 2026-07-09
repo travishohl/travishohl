@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Travis 👋
 
-<!--
-**travishohl/travishohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior fullstack engineer with 13+ years building for the web. I work most fluently
+in **Vue.js** on the front end and **PHP/Laravel** on the back, and I'm comfortable
+across **Ruby on Rails** and **TypeScript/React**. Previously at Visa and in
+fintech/payments.
 
-Here are some ideas to get you started:
+I care as much about the systems and the people around the code as the code itself —
+the hard part of the job is usually understanding the problem, not writing the solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Vue.js · TypeScript · PHP / Laravel · Ruby on Rails · Node · AWS · Docker
+
+🌐 [travishohl.com](https://travishohl.com) · 🦊 [gitlab.com/cthohl](https://gitlab.com/cthohl) · 💼 [LinkedIn](https://www.linkedin.com/in/travishohl) · 📍 Austin, TX
